@@ -14,6 +14,9 @@ dist/
 # Env files
 .env
 
+# Large pickles (models/datasets)
+*.pkl
+
 # IDE
 .vscode/
 
